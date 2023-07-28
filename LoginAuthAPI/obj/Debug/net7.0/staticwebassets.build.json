@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M/fSMc33XUfEaTHuZtbZpjVg4tOQDGhFywaSsItwwAc=",
+  "Source": "LoginAuthAPI",
+  "BasePath": "_content/LoginAuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
