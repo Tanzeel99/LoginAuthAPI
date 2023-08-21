@@ -2,6 +2,7 @@
 using MailKit.Net.Smtp;
 using MailKit.Security;
 using MimeKit;
+using System.Security.Authentication;
 
 namespace LoginAuthAPI.UtilityService
 {
@@ -27,6 +28,7 @@ namespace LoginAuthAPI.UtilityService
             {
                 try
                 {
+                    client.CheckCertificateRevocation = false;
                     client.Connect("smtp.gmail.com", 465, true);
                     client.Authenticate(_configuration["EmailSettings:Username"], _configuration["EmailSettings:Password"]);
                     client.Send(emailmessage);

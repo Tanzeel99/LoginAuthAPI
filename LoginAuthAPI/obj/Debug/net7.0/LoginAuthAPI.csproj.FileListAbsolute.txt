@@ -8,6 +8,7 @@ C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\Lo
 C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\Azure.Core.dll
 C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\Azure.Identity.dll
 C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\MailKit.dll
 C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -29,7 +30,10 @@ C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\Mi
 C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
 C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
 C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\MimeKit.dll
 C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\NETCore.MailKit.dll
+C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\BouncyCastle.Crypto.dll
 C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -75,7 +79,3 @@ C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\obj\Debug\net7.0\re
 C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\obj\Debug\net7.0\LoginAuthAPI.pdb
 C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\obj\Debug\net7.0\LoginAuthAPI.genruntimeconfig.cache
 C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\obj\Debug\net7.0\ref\LoginAuthAPI.dll
-C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\MailKit.dll
-C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\MimeKit.dll
-C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\NETCore.MailKit.dll
-C:\Users\PACE\Documents\Learn\.Net\LoginAuthAPI\LoginAuthAPI\bin\Debug\net7.0\BouncyCastle.Crypto.dll
